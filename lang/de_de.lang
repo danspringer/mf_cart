@@ -1,0 +1,15 @@
+mf_cart_title = Cart - Warenkorb
+mf_cart_settings = Einstellungen
+mf_cart_help = Hilfe
+mf_cart_save_success = Einstellungen wurden gespeichert
+mf_cart_btn_save = Speichern
+
+mf_cart_cart_settings = Warenkorb-Einstellungen
+mf_cart_max_items_label = Maximale Item-Anzahl im Warenkorb
+mf_cart_max_items_desc = Die maximale Anzahl an Items, die im Warenkorb liegen können. 0 = Unbegrenzt
+
+mf_cart_item_max_qty_label = Maximale Anzahl eines Items 
+mf_cart_item_max_qty_desc = Maximale Anzahl eines Items, das in den Warenkorb gelegt werden kann. 0 = Unbegrenzt
+
+mf_cart_use_cookie_label = Cookie nutzen 
+mf_cart_use_cookie_desc = Ohne Cookie wird der WK nur in der Session gespeichert. Wenn der Browser geschlossen wird, wird der WK geleert. Mit gesetztem Cookie bleibt der Warenkorb bei folgenden Besuchen innerhalb der nächsten 7 Tage bestehen.

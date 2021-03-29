@@ -1,0 +1,20 @@
+# Alle hier gesetzten Werte können über $addon->getProperty($key) abgefragt werden
+
+package: mf_cart
+version: '1.0'
+author: 'Daniel Springer | Medienfeuer'
+compile: 0
+
+page:
+  title: 'Cart - Warenkorb'
+  perm: mf_cart[]
+  pjax: true
+  icon: rex-icon fa fa-shopping-cart
+  subpages:
+    settings: { title: 'translate:mf_cart_settings' }
+    help: { title: 'translate:mf_cart_help', icon: 'rex-icon fa fa-question', perm: mf_cart[help], itemclass: pull-right, subPath: README.md }	
+
+requires:
+    packages:
+    
+    redaxo: '>=5.0'
