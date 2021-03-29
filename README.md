@@ -1,6 +1,6 @@
 # Cart
 
-Cart ist eine einfache PHP-Klasse, die einen Warenkorb ohne Checkout zur Verfügung stellt. Warenkorb-Items können in PHP-Sessions oder Browser-Cookie gespeichert werden. Cart eignet sich z.B. auch zur Erstellung einer Merkliste oder eines Wunschzettels.
+Cart ist eine einfache PHP-Klasse, die einen Warenkorb für REDAXO 5 ohne Checkout zur Verfügung stellt. Warenkorb-Items können in PHP-Sessions oder Browser-Cookie gespeichert werden. Cart eignet sich z.B. auch zur Erstellung einer Merkliste oder eines Wunschzettels.
 
 
 
